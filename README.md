@@ -30,6 +30,8 @@
 - 🔥 Functional Programming Theory *Zygohistomorphic prepromorphisms*
 - 🔥 Learning TDD/BDD and END-TO-END frameworks 👨🏻‍🔧
 - 🔥 I'm still learning about CI/CD DevOps tools in general.
+- 🔥 Learning RoR & Ruby.
+- 🔥 Learning daily to implement Design Patterns, SOLID & Clean Architecture in my projects.
 - 🔥 I want to fluently learn the most used cloud services today (AWS, Azure etc...)
 
 ###### My Hobbies:
