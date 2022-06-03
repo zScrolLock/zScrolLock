@@ -25,7 +25,7 @@
  - **Analysis & Systems Development** at **Toledo Presidente Prudente** (Toledo)
 
 ----
-##### 🌱 I’m currently learning in this yeat [2022])
+##### 🌱 I’m currently learning in this year [2022])
 - 🌱 I'm still going on the learning process to be able to speak and fully understand the English Language
 - 🌱 Functional Programming Theory *Zygohistomorphic prepromorphisms*
 - 🌱 Learning TDD/BDD
