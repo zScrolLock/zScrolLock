@@ -25,19 +25,12 @@
  - **Analysis & Systems Development** at **Toledo Presidente Prudente** (Toledo)
 
 ----
-##### 🌱 I’m currently learning in this year [2022])
+##### 🌱 I’m currently learning in this year [2023])
 - 🌱 I'm still going on the learning process to be able to speak and fully understand the English Language
 - 🌱 Functional Programming Theory *Zygohistomorphic prepromorphisms*
 - 🌱 Learning TDD/BDD
 - 🌱 I'm still learning about CI/CD DevOps tools in general.
-- 🌱 Learning RoR & Ruby.
 - 🌱 Learning daily to implement Design Patterns, SOLID & Clean Architecture in my projects.
 - 🌱 I want to fluently learn the most used cloud services today (AWS, Azure etc...)
-
-###### My Hobbies:
-- Gastronomy.
-- I also love to watch a lot of movies & sitcoms.
-- Bodybuilding.
-- Learning Math & Philosophy Stuff.
 
 ![zScrolLock:](https://github-readme-stats.vercel.app/api?username=zScrolLock&count_private=true)
